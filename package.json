@@ -1,0 +1,28 @@
+{
+  "name": "puck",
+  "version": "0.0.1",
+  "description": "Private Universal Collaboration Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmd909/puck.git"
+  },
+  "author": "Tim Doerzbacher <tim@tim-doerzbacher.com> (http://www.tim-doerzbacher.com)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/timmd909/puck/issues"
+  },
+  "homepage": "https://github.com/timmd909/puck#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "jquery": "^3.1.1",
+    "load-grunt-config": "^0.19.2",
+    "lodash": "^4.16.4"
+  }
+}

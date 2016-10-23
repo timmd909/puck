@@ -1,6 +1,8 @@
 /app/config/parameters.yml
+
 /build/
 /phpunit.xml
+
 /var/*
 !/var/cache
 /var/cache/*
@@ -12,5 +14,9 @@
 /var/sessions/*
 !var/sessions/.gitkeep
 !var/SymfonyRequirements.php
+
+# 3rd party assets
 /vendor/
 /web/bundles/
+/web/assets/
+/node_modules/
